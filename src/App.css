@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+.App .logo {
+  max-width: 30%;
+}
+.App .footer {
+  font-size: 10px;
+}
+.App .footer a {
+  color: black;
+}
