@@ -1,4 +1,28 @@
 .Dictionary {
-  background-color: blanchedalmond;
   display: block;
+  text-align: left;
+}
+.Dictionary section {
+  background-color: var(--fbs-white);
+  padding: 30px;
+  margin: 10px auto 20px auto;
+  border-radius: 10px;
+  box-shadow: var(--box-shadow);
+}
+.Dictionary form {
+  font-size: 12px;
+  line-height: 2;
+}
+form input {
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: var(--fbs-olive-green);
+  color: var(--fbs-soft-yellow);
+}
+form button {
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: var(--fbs-olive-green);
+  color: var(--fbs-white);
+  border-color: var(--fbs-olive-green);
 }
