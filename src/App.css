@@ -13,6 +13,7 @@
 }
 .App {
   background-color: var(--fbs-tonal-grey);
+  padding: 0 0 470px 0;
 }
 .App .footer {
   font-size: 10px;

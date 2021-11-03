@@ -13,16 +13,24 @@
   font-size: 12px;
   line-height: 2;
 }
+.Dictionary h2 {
+  font-size: 36px;
+  color: var(--fbs-charcoal);
+}
+.Dictionary h3 {
+  font-size: 30px;
+  color: var(--fbs-charcoal);
+}
 form input {
   border-radius: 5px;
-  border-width: 1px;
-  border-color: var(--fbs-olive-green);
+  border: 1px solid var(--fbs-warm-grey);
   color: var(--fbs-soft-yellow);
+  padding: 5px;
 }
 form button {
   border-radius: 5px;
-  border-width: 1px;
+  border: 1px solid var(--fbs-olive-green);
+  padding: 5px;
   background-color: var(--fbs-olive-green);
   color: var(--fbs-white);
-  border-color: var(--fbs-olive-green);
 }

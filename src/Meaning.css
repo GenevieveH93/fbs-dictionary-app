@@ -1,0 +1,13 @@
+.Meaning h4 {
+  font-size: 24px;
+  color: var(--fbs-charcoal);
+}
+.Meaning p {
+  font-size: 14px;
+  color: var(--fbs-charcoal);
+  line-height: 1.8;
+}
+.Meaning p strong {
+  font-weight: 600;
+  color: var(--fbs-olive-green);
+}
