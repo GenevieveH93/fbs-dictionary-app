@@ -17,7 +17,7 @@ function App() {
         <main className="container">
           <Dictionary />
         </main>
-        <footer className="text-center footer">
+        <footer className="text-center footer pt-3">
           Coded by{" "}
           <a
             href="https://www.instagram.com/fernbaystudio/"

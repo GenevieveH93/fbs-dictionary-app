@@ -1,0 +1,16 @@
+:root {
+  --fbs-mid-green: #80aa8c;
+  --fbs-soft-green: #ddeeda;
+  --fbs-olive-green: #507151;
+  --fbs-duckegg: #cae8e4;
+  --fbs-tonal-grey: #a1a791;
+  --fbs-charcoal: #4f4f4e;
+  --fbs-warm-grey: #d1dac7;
+  --fbs-dusty-yellow: #f3f4c7;
+  --fbs-white: #ffffff;
+  --fbs-black: #000000;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+body {
+  background-color: var(--fbs-tonal-grey);
+}
