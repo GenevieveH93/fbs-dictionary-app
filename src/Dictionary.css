@@ -43,4 +43,7 @@ form button {
     position: relative;
     top: -1px;
   }
+  form input {
+    border-radius: 2px;
+  }
 }
