@@ -44,7 +44,7 @@ form button {
     top: -1px;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 420px) {
   form input {
     border-radius: 1px;
   }
