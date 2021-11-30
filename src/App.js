@@ -18,7 +18,7 @@ function App() {
           <Dictionary />
         </main>
         <footer className="text-center footer pt-3">
-          Coded by{" "}
+          Designed and coded by Genevieve for{" "}
           <a
             href="https://www.instagram.com/fernbaystudio/"
             target="blank"
